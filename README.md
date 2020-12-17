@@ -19,7 +19,6 @@ E por fim verificar a correlação entre as notas das Provas.
 **Dados:**
 
 - A base de dados utilizada nesse notebook está disponível no site do [Inep](http://inep.gov.br/microdados), junto com toda a documentação.
-- Nessa análise eu não utilizei todas as variáveis disponível, devido ao tamanho da base. Logo mais explicarei as variáveis escolhidas.
 
 <hr/>
 
